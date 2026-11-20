@@ -58,7 +58,7 @@ Applying statistics, programming, and financial modeling to analyze markets, ass
 
 **Projects**
 
-> Projects in this category will be added here as they are completed.
+> (https://github.com/FebeianBELLO/SP500-VIX-Investment-and-Quantitative-Analysis).
 
 ---
 
