@@ -32,19 +32,9 @@ Building intelligent systems using machine learning, deep learning, and computer
 
 ---
 
-##  Business Intelligence
+## Business Analysis and Business Intelligence
 
-Designing dashboards, reports, and visual analytics that help organizations monitor performance and make informed decisions.
-
-**Projects**
-
-> Projects in this category will be added here as they are completed.
-
----
-
-## Business Analysis
-
-Applying analytical thinking, data interpretation, and process improvement techniques to solve business challenges.
+Applying analytical thinking, data interpretation, and process improvement techniques to solve business challenges, designing dashboards, reports, and visual analytics that help organizations monitor performance and make informed decisions.
 
 **Projects**
 
